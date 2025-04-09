@@ -1,0 +1,4 @@
+org/openmrs/module/basicexample/extension/html/AdminList.class
+org/openmrs/module/basicexample/web/controller/BasicexampleController.class
+org/openmrs/module/basicexample/web/controller/BasicexampleRestController.class
+org/openmrs/module/basicexample/fragment/controller/UsersFragmentController.class
